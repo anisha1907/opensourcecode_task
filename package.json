@@ -1,5 +1,4 @@
 {
-  "homepage": "https://opensoucecode.github.io/osc_app",
   "name": "osc",
   "version": "1.0.0",
   "description": "Open Source Code",
@@ -12,13 +11,8 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "^3.4.1"
   },
-  "devDependencies": {
-    "typescript": "3.3.3"
-  },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "yarn run build",
-    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
