@@ -37,7 +37,7 @@ export default class Settings extends Component {
   render() {
     return (
       <div>
-        <Header></Header>
+
         <div className="how-flex">
           <div className="col right-col">
             <div className="num-block">
