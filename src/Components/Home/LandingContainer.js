@@ -13,10 +13,10 @@ export default function LandingContainer() {
         <div className="left-col-btns">
 
           <div className="sign-in-buttons">
-            <button className="email-button" type="submit">
+            {/* <button className="email-button" type="submit">
               <img alt="icon-mat-email" src={require('../../png/Iconmaterial-email.png')} />
               <p>Sign in with email</p>
-            </button>
+            </button> */}
 
             <button className="google-button" type="submit">
               <img alt="Icon-simple-google" src={require('../../png/Icon-simple-google.png')} />
