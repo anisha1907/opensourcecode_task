@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/osc_app/static/css/main.982a28f2.chunk.css",
+    "main.js": "/osc_app/static/js/main.142392f4.chunk.js",
+    "main.js.map": "/osc_app/static/js/main.142392f4.chunk.js.map",
+    "runtime-main.js": "/osc_app/static/js/runtime-main.284679f3.js",
+    "runtime-main.js.map": "/osc_app/static/js/runtime-main.284679f3.js.map",
+    "static/js/2.8fae91a5.chunk.js": "/osc_app/static/js/2.8fae91a5.chunk.js",
+    "static/js/2.8fae91a5.chunk.js.map": "/osc_app/static/js/2.8fae91a5.chunk.js.map",
+    "index.html": "/osc_app/index.html",
+    "precache-manifest.d75a35afedad1444847e0a480f1e39ef.js": "/osc_app/precache-manifest.d75a35afedad1444847e0a480f1e39ef.js",
+    "service-worker.js": "/osc_app/service-worker.js",
+    "static/css/main.982a28f2.chunk.css.map": "/osc_app/static/css/main.982a28f2.chunk.css.map",
+    "static/js/2.8fae91a5.chunk.js.LICENSE.txt": "/osc_app/static/js/2.8fae91a5.chunk.js.LICENSE.txt",
+    "static/media/about-left-SVG.png": "/osc_app/static/media/about-left-SVG.93a02324.png",
+    "static/media/how-right-SVG.png": "/osc_app/static/media/how-right-SVG.6b0d4849.png",
+    "static/media/left-SVG.png": "/osc_app/static/media/left-SVG.c695fc67.png",
+    "static/media/right-svg.png": "/osc_app/static/media/right-svg.9e6d3626.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.284679f3.js",
+    "static/js/2.8fae91a5.chunk.js",
+    "static/css/main.982a28f2.chunk.css",
+    "static/js/main.142392f4.chunk.js"
+  ]
+}
